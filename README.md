@@ -11,4 +11,4 @@ Functions: ETL/ELT, data modeling, data governance, data quality, metadata manag
 
 Website : https://nitintadasina.com/
 Email : nitintadasinawork@gmail.com
-linkedin : https://www.linkedin.com/in/nitin-reddy-tad/
+
