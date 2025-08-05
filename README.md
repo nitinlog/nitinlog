@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m Selenge Tulga, a Data Engineer in ZAG. BS in Computer Science and MS in Data Science, I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through cutting-edge technologies.
+LinkedIn Email
 <!--
 **nitinlog/nitinlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
