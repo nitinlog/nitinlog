@@ -6,6 +6,8 @@ Tools: Azure Data Factory, AWS Glue, Bedrock, Databricks, AWS Sagemaker, dbt, Sn
 
 Functions: ETL/ELT, data modeling, data governance, data quality, metadata management, lineage tracking
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nitin-reddy-tad/))
+
 Website : https://nitintadasina.com/
 Email : nitintadasinawork@gmail.com
 linkedin : https://www.linkedin.com/in/nitin-reddy-tad/
